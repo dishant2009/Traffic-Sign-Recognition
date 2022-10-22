@@ -13,3 +13,4 @@ Numpy== 1.19.5 |
 Matplotlib== 3.4.3 |
 Pandas== 1.3.1 |
 
+To RUN: Add the train folder and the train.csv file from the GTSRB data set to the Project File and then run.
